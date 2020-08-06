@@ -1,5 +1,5 @@
 import app from './app.ts'
-import config from './config/index.ts'
+import config from './config/mod.ts'
 
 const HOST = config.HOST || '127.0.0.1'
 const PORT = config.PORT || 3000

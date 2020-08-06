@@ -1,7 +1,7 @@
 # deno-crud
 Deno CRUD + MongoDB
 
-## Developer Interface
+## Developer Payload
 ```json
 {
     "name": "Igor",
